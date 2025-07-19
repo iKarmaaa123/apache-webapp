@@ -1,4 +1,4 @@
-# Appache Web App
+# Apache Web App
 
 When I created a web server using Terraform, I had to go through several steps. First, I created a Virtual Private Cloud (VPC) by defining the VPC resource with specific attributes like the CIDR block and tenancy.
 
